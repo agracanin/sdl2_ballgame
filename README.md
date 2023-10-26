@@ -1,8 +1,8 @@
 # SDL2 Ballgame
 A C++ game using the SDL2 library to animate a player sprite with walking and running modes to hit a ball into the sky.
 
-Left-click: Hit
-Space: Lob (reset score)
+- Left-click: Hit
+- Space: Lob (reset score)
 
 ## Features
 - Smooth Player and Ball animations
